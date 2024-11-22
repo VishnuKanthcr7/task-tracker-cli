@@ -81,8 +81,3 @@ python task_tracker.py delete <task_id>
 This project is open-source and available under the MIT License.
 ```
 
-### Key Changes:
-- **Usage** section now has proper headings and consistent formatting with triple backticks for code blocks.
-- Added missing closing ```bash for the command sections.
-
-Now, you can copy this and paste it into your `README.md` file.
